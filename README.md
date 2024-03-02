@@ -15,9 +15,9 @@
 ### ⚒️ Technologies & Tools I use:
 
 <div>
-  <img align="center" alt="Ashley-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"/>
-  <img align="center" alt="Ashley-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"/>
-  <img align="center" alt="Ashley-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"/>
+  <img align="center" alt="Ashley-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
+  <img align="center" alt="Ashley-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
+  <img align="center" alt="Ashley-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
 </div>
 
 
