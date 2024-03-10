@@ -6,7 +6,7 @@
 
 ▸ 👩🏽‍🎓 Graduanda de TI. (Universidade São Judas Tadeu)
 
-▸ 📌 Atualmente meu foco é na área de desenvolvimento web.
+▸ 📌 Atualmente meu foco é na área de desenvolvimento front-end e tenho interesse por ux design.
 
 ▸ 📌 Quero me tornar uma Desenvolvedora Front-End.
 
