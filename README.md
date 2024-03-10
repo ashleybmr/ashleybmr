@@ -23,7 +23,7 @@
 
 ### ⚒️ Technologies & Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascriptjava,sql,react,git,github,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,sql,react,git,github,visualstudio)](https://skillicons.dev)
 
 ### ⚙️ GitHub Analytics
 
