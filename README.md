@@ -6,9 +6,9 @@
 
 ▸ 👩🏽‍🎓 Graduanda de TI. (Universidade São Judas Tadeu)
 
-▸ 📌 Atualmente meu foco é na área de back-end.
+▸ 📌 Atualmente meu foco é na área de desenvolvimento web.
 
-▸ 📌 Quero me tornar uma Desenvolvedora Back-End.
+▸ 📌 Quero me tornar uma Desenvolvedora Front-End.
 
 ▸ 🖥️ Let's get connected:
 
@@ -23,7 +23,7 @@
 
 ### ⚒️ Technologies & Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,python,git,github,spring,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascriptjava,sql,react,git,github,visualstudio)](https://skillicons.dev)
 
 ### ⚙️ GitHub Analytics
 
