@@ -8,7 +8,7 @@
 
 ▸ 📌 Atualmente meu foco é na área de desenvolvimento front-end e tenho interesse por ux design.
 
-▸ 📌 Quero me tornar uma Desenvolvedora Front-End.
+▸ 📌 Quero me tornar uma Desenvolvedora Front-End e UX Design.
 
 ▸ 🖥️ Let's get connected:
 
