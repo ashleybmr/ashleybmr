@@ -6,9 +6,9 @@
 
 ▸ 👩🏽‍🎓 Graduanda de TI. (Universidade São Judas Tadeu)
 
-▸ 📌 Atualmente meu foco é na área de desenvolvimento front-end e tenho interesse por ux design.
+▸ 📌 Atualmente meu foco é me desenvolver área de tecnologia.
 
-▸ 📌 Quero me tornar uma Desenvolvedora Front-End e UX Design.
+▸ 📌 Quero me tornar uma excelente profissional de TI. 
 
 ▸ 🖥️ Let's get connected:
 
@@ -23,7 +23,7 @@
 
 ### ⚒️ Technologies & Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,git,github,visualstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,phyton)](https://skillicons.dev)
 
 ### ⚙️ GitHub Analytics
 
