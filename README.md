@@ -8,7 +8,7 @@
 
 ▸ 📌 Atualmente meu foco é me desenvolver área de tecnologia.
 
-▸ 📌 Quero me tornar uma excelente profissional de TI. 
+▸ 📌 Quero me tornar uma Desenvolvedora Back-End. 
 
 ▸ 🖥️ Let's get connected:
 
