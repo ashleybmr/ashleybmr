@@ -8,7 +8,7 @@
 
 ▸ 📌 Atualmente meu foco é me desenvolver área de tecnologia.
 
-▸ 📌 Quero me tornar uma Analista de Dados. 
+▸ 📌 Quero me tornar uma Cientista de Dados. 
 
 ▸ 🖥️ Let's get connected:
 
