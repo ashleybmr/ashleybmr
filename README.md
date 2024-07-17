@@ -4,29 +4,18 @@
 
 ### Olá, tudo bem? Eu sou a Ashley 👩🏽‍💻
 
-▸ 👩🏽‍🎓 Graduanda de TI. (Universidade São Judas Tadeu)
+▸ 👩🏽‍🎓 Me chamo Ashley e estou estudando para me tornar uma Cientista de Dados.
 
-▸ 📌 Atualmente meu foco é me desenvolver área de tecnologia.
+▸ 📌 Me formei recentente em Gestão da Tecnologia da Informação pela USJT.
 
-▸ 📌 Quero me tornar uma Cientista de Dados. 
+### ⚒️ Estou aprendendo sobre análise de dados, utilizando: [![My Skills](https://skillicons.dev/icons?=py,mysql,powerbi)](https://skillicons.dev)
 
-▸ 🖥️ Let's get connected:
-
+                                                                                  🖥️ Let's get connected:
 <div> 
-  <a href="https://www.instagram.com/_ashrosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:ashleymatheus2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ashley-mrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
-
-### ⚒️ Technologies & Tools I use:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,py,aws,visualstudio,mysql)](https://skillicons.dev)
-
-### ⚙️ GitHub Analytics
-
+                                                                                  ⚙️ GitHub Analytics
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashleybmr&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleybmr&layout=compact&theme=tokyonight"/>
