@@ -8,10 +8,9 @@
 
 ▸ 📌 Me formei recentente em Gestão da Tecnologia da Informação pela USJT.
 
-### ⚒️ Estou aprendendo sobre análise de dados, utilizando: [![My Skills](https://skillicons.dev/icons?=py,mysql,powerbi)](https://skillicons.dev)
+⚒️ Estou aprendendo sobre análise de dados, utilizando: [![My Skills](https://skillicons.dev/icons?=py,mysql,powerbi)](https://skillicons.dev)
 
-                                                                                  🖥️ Let's get connected:
-<div> 
+                                                                                  🖥️ Let's get connected: <div> 
   <a href="https://www.linkedin.com/in/ashley-mrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
