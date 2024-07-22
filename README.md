@@ -34,7 +34,7 @@ Como parte da minha jornada para me tornar uma cientista de dados, estou me conc
 ● Stored Procedures para analisar uma procedure e criar, armazenaddo em um conjunto de isntruções SQL.    
 ● Functions para executar uma operação e retornar um resultado, entre outros.  
 
-🐍 Processamento de Dados Pyhton, estou explorando:  
+🐍 Processamento de Dados Python, estou explorando:  
 
 ● Trabalhar com bibliotecas populares como Pandas, NumPy para manipulação e análise de dados.  
 ● Descobrir padrões e insights e entender grandes quantidades de dados.  
