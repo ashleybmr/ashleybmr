@@ -24,7 +24,7 @@
 
 <h3 align="center"> 📊 Manipulação e Processamento de Dados com Python e SQL 📊</h3>
 
-Como parte da minha jornada para me tornar uma cientista de dados, estou me concentrantando também em manipulação e processamento de dados com Pyhton e SQL.  
+Como parte da minha jornada para me tornar uma cientista de dados, estou me concentrando também em manipulação e processamento de dados com Pyhton e SQL.  
 
 📈 Em manipulação de dados com SQL, estou estudando:  
 
