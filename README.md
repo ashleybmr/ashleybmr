@@ -32,8 +32,8 @@ Como parte da minha jornada para me tornar uma cientista de dados, estou me conc
 ● Subconsultas e subquerys para fazer uma consulta dentro de outra consulta.  
 ● Desempenho e otimização com índices.  
 ● Stored Procedures para analisar uma procedure e criar, armazenaddo em um conjunto de isntruções SQL.  
+● Implementação de processos ETL(Extract, Transform e Load) para integração de dados.  
 ● Functions para executar uma operação e retornar um resultado, entre outros.  
-● Implementação de processos ETL(Extract, Transform e Load) para integração de dados.
 
 🐍 Processamento de Dados Pyhton, estou explorando:  
 
