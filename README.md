@@ -18,8 +18,8 @@
 </h4>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashleybmr&show_icons=true&theme=shadow_red"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleybmr&layout=compact&theme=shadow_red"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashleybmr&show_icons=true&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleybmr&layout=compact&theme=highcontrast"/>
 </div>
 
 <h3 align="center"> 📊 Manipulação e Processamento de Dados com Python e SQL 📊</h3>
