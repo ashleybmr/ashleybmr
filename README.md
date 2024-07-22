@@ -31,8 +31,7 @@ Como parte da minha jornada para me tornar uma cientista de dados, estou me conc
 ● Modelagem de Dados para saber saber projetar esquemas de banco de dados eficientes.  
 ● Subconsultas e subquerys para fazer uma consulta dentro de outra consulta.  
 ● Desempenho e otimização com índices.  
-● Stored Procedures para analisar uma procedure e criar, armazenaddo em um conjunto de isntruções SQL.  
-● Implementação de processos ETL(Extract, Transform e Load) para integração de dados.  
+● Stored Procedures para analisar uma procedure e criar, armazenaddo em um conjunto de isntruções SQL.    
 ● Functions para executar uma operação e retornar um resultado, entre outros.  
 
 🐍 Processamento de Dados Pyhton, estou explorando:  
@@ -40,4 +39,5 @@ Como parte da minha jornada para me tornar uma cientista de dados, estou me conc
 ● Trabalhar com bibliotecas populares como Pandas, NumPy para manipulação e análise de dados.  
 ● Descobrir padrões e insights e entender grandes quantidades de dados.  
 ● Construindo modelos de aprendizagem de máquina para análise preditiva e tomada de decisão baseada em dados.  
-● Visualização de dados usando PowerBI 
+● Visualização de dados usando PowerBI.  
+● Implementação de processos ETL(Extract, Transform e Load) para integração de dados.
