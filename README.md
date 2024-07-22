@@ -39,4 +39,5 @@ Como parte da minha jornada para me tornar uma cientista de dados, estou me conc
 
 ● Trabalhar com bibliotecas populares como Pandas, NumPy para manipulação e análise de dados.  
 ● Descobrir padrões e insights e entender grandes quantidades de dados.  
-● Construindo modelos de aprendizagem de máquina para análise preditiva e tomada de decisão baseada em dados. 
+● Construindo modelos de aprendizagem de máquina para análise preditiva e tomada de decisão baseada em dados.  
+● Visualização de dados usando PowerBI 
