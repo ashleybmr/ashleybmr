@@ -21,23 +21,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ashleybmr&show_icons=true&theme=highcontrast"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleybmr&layout=compact&theme=highcontrast"/>
 </div>
-
-<h3 align="center"> 📊 Manipulação e Processamento de Dados com Python e SQL 📊</h3>
-
-Como parte da minha jornada para me tornar uma cientista de dados, estou me concentrando também em manipulação e processamento de dados com Pyhton e SQL.  
-
-📈 Em manipulação de dados com SQL, estou estudando:  
-
-● Modelagem de Dados para saber saber projetar esquemas de banco de dados eficientes.  
-● Subconsultas e subquerys para fazer uma consulta dentro de outra consulta.  
-● Desempenho e otimização com índices.  
-● Stored Procedures para analisar uma procedure e criar, armazenaddo em um conjunto de isntruções SQL.    
-● Functions para executar uma operação e retornar um resultado, entre outros.  
-
-🐍 Processamento de Dados Python, estou explorando:  
-
-● Trabalhar com bibliotecas populares como Pandas, NumPy para manipulação e análise de dados.  
-● Descobrir padrões e insights e entender grandes quantidades de dados.  
-● Construindo modelos de aprendizagem de máquina para análise preditiva e tomada de decisão baseada em dados.  
-● Visualização de dados usando PowerBI.  
-● Implementação de processos ETL(Extract, Transform e Load) para integração de dados.
