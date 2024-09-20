@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Olá, mundo! 👩🏽‍💻
 
-⭐ Me chamo Ashley e estou estudando para me tornar uma Cientista de Dados!
+⭐ Me chamo Ashley e estou estudando para me tornar uma Engenheira de Dados!
 
 👩🏽‍🎓 Me formei recentente em Gestão da Tecnologia da Informação pela USJT.
 
