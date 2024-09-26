@@ -2,7 +2,7 @@
 
 ⭐ Me chamo Ashley e estou estudando para me tornar uma Engenheira de Dados!
 
-👩🏽‍🎓 Me formei recentente em Gestão da Tecnologia da Informação pela USJT.
+👩🏽‍🎓 Me formei recentente em Tecnologia da Informação pela USJT.
 
 📊 Estou aprendendo sobre manipulação, análise de dados lógicos e físicos, utilizando:
 [![My Skills](https://icongr.am/devicon/python-original.svg?size=24&color=currentColor)](https://icongr.am/devicon)
